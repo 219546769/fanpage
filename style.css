@@ -1,0 +1,29 @@
+body{
+    background-color:black;
+    color:#FFD133;
+}
+
+
+
+
+#navbar{
+    display:flex;
+    justify-content:space-around;
+    color:orange;
+}
+.header{
+    display:flex;
+    justify-content:center;
+}
+
+.social-image{
+    width: 30px;
+    margin: 15px;
+}
+a {
+    color:orange;
+}
+a:hover{
+    font-size:20px;
+    
+}
