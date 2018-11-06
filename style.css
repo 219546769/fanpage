@@ -57,3 +57,9 @@ a:hover{
     height:250;
     width:200;
 }
+.kale{
+    height:100px;
+    width:500px;
+    display:flex;
+    justify-content:center;
+}
