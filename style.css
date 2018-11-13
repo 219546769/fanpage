@@ -26,7 +26,7 @@ a {
     color:orange;
 }
 a:hover{
-    font-size:45px;
+    font-size:35px;
 }
 
 .picture{
@@ -34,14 +34,14 @@ a:hover{
     display:flex;
     justify-content:center;
     padding:10px;
-    border:5px solid yellow;
+    border:5px solid black;
     margin:15px;
 }
 
 .dove{
     margin:50px;
     padding:10px;
-   border:5px solid yellow;
+   border:5px solid white;
    display:flex;
    justify-content:space-between;
 }
@@ -63,3 +63,38 @@ a:hover{
     display:flex;
     justify-content:center;
 }
+.fun{
+    display:flex;
+    justify-content:center;
+}
+.fun:hover{
+    font-size:35px;
+
+
+}
+.first{
+    color:#6523ff;
+}
+.opinions{
+    font-style:italic;
+    color:#6523ff;
+    
+}
+.pa{
+    
+}
+ .midright{
+     width:10px;
+     height:10px;
+     
+ }
+ 
+ .midleft{
+    
+     float:left;
+ }
+ 
+ .about{
+     display:flex;
+     justify-content:center;
+ }
