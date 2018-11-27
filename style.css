@@ -29,40 +29,35 @@ a:hover{
     font-size:35px;
 }
 
-.picture{
-   
-    display:flex;
-    justify-content:center;
-    padding:10px;
-    border:5px solid black;
-    margin:15px;
-}
+
 
 .dove{
     margin:50px;
     padding:10px;
+    padding-bottom: 10px;
+    padding-left:5px;
+    padding-right:5px;
    border:5px solid white;
+   
    display:flex;
    justify-content:space-between;
 }
  .number2{
      height:250px;
      width:350px;
+     padding: 5px;
  }
 .cover{
     height:250px;
-    width:250px;
+    width:300px;
+    padding-left: : 5px;
 }
 .gucci {
     height:250;
     width:200;
+    border:5px;
 }
-.kale{
-    height:100px;
-    width:500px;
-    display:flex;
-    justify-content:center;
-}
+
 .fun{
     display:flex;
     justify-content:center;
@@ -79,22 +74,34 @@ a:hover{
     font-style:italic;
     color:#6523ff;
     
+
 }
-.pa{
-    
-}
- .midright{
-     width:10px;
-     height:10px;
-     
- }
  
- .midleft{
-    
-     float:left;
- }
  
  .about{
      display:flex;
      justify-content:center;
  }
+ 
+ .gifs{
+     border: 1px solid #000;
+  position: relative;
+ }
+ .img1 {
+  border: 1px solid #f00;
+  position: relative;
+  z-index: 50;
+  
+}
+
+.img2 {
+  border: 1px solid #0f0;
+ 
+}
+.im3 {
+    border:1px solid #0f0;
+    position:relative;
+    z-index:50;
+    top:12;
+    right:12px;
+}
